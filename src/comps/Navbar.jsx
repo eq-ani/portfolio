@@ -70,7 +70,7 @@ const Navbar = () => {
 
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-700'>
                 <a className='flex justify-between items-center w-full text-gray-100'
-                 href="https://docs.google.com/document/d/1kcZzS-Ic4amycA9qzNxdVs0mp4mgL3paFb1Ju5zekno/export?format=pdf" target="_blank" rel="noopener noreferrer">
+                 href="https://google.com" target="_blank" rel="noopener noreferrer">
                     Resume <MdFormatAlignLeft size={30}/>
                 </a>
             </li>
