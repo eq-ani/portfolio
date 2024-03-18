@@ -3,7 +3,7 @@ import { FaBars, FaTimes} from 'react-icons/fa';
 import logo from '../assets/logo.png'
 import { RiLinkedinBoxLine } from "react-icons/ri";
 import { VscGithub } from "react-icons/vsc";
-import { MdOutlineMailOutline, MdFormatAlignLeft } from "react-icons/md";
+import { MdOutlineMailOutline,} from "react-icons/md";
 import { Link } from 'react-scroll'
 
 const Navbar = () => {
@@ -67,14 +67,7 @@ const Navbar = () => {
                     Email <MdOutlineMailOutline size={30}/>
                 </a>
             </li>
-
-            <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-700'>
-                <a className='flex justify-between items-center w-full text-gray-100'
-                 href="https://drive.google.com/file/d/1FZfr9jIleFg9epvvlV55VmzcSC61tb9C/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                    Resume <MdFormatAlignLeft size={30}/>
-                </a>
-            </li>
-
+           
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-700'>
                 <a className='flex justify-between items-center w-full text-gray-100'
                  href="https://www.linkedin.com/in/anirudh-poluru-a20095241/" target="_blank" rel="noopener noreferrer">

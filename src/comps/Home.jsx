@@ -11,7 +11,7 @@ const Home = () => {
         specializing in the backend. I am currently focused on building important
         and useful projects with python, java, and javsascript. On this site you will find
         my about me and practical skills. To view my experience, soft skills, and projects,
-        my github, linkedin, and resume can be found on the left. 
+        my Github and LinkedIn can be found on the left. 
         </p>
       </div>
     </div>
