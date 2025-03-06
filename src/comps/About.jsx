@@ -22,7 +22,7 @@ const About = () => {
                     </div>
                     <div className='text-xl'>
                         <p>
-                        EX: I am currently a computer science student at the University of Massachusetts. 
+                        I am currently a computer science student at the University of Massachusetts. 
                         I plan to specialize in AI and have a staunch interest in AI's application in
                         to data analysis. Aside from that, I was born in Woodland Hills, California and 
                         currently reside in Amherst, Massachusetts. I love playing volleyball and enjoy bodybuilding.
