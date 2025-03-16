@@ -63,7 +63,7 @@ const Navbar = () => {
          <ul>
          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-700'>
                 <a className='flex justify-between items-center w-full text-gray-100'
-                 href="https://google.com" target="_blank" rel="noopener noreferrer">
+                 href="https://mail.google.com/mail/u/0/?fs=1&to=anirudhpoluru@gmail.com&su=SUBJECT&body=BODY&tf=cm" target="_blank" rel="noopener noreferrer">
                     Email <MdOutlineMailOutline size={30}/>
                 </a>
             </li>
