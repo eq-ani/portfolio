@@ -23,9 +23,9 @@ const About = () => {
                     <div className='text-xl'>
                         <p>
                         I am currently a computer science student at the University of Massachusetts. 
-                        I plan to specialize in AI and have a staunch interest in AI's application in
-                        to data analysis. Aside from that, I was born in Woodland Hills, California and 
-                        currently reside in Amherst, Massachusetts. I love playing volleyball and enjoy bodybuilding.
+                        I specialize in backend engineering and have a staunch interest in Artificial Intelligence and its application in
+                        data analysis. Aside from that, I was born in Woodland Hills, California and 
+                        currently reside in Amherst, Massachusetts where I am pursuing my degree. My main hobbies include playing volleyball and bodybuilding. 
                         </p>
                     </div>
                 </div>
